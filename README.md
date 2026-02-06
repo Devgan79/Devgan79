@@ -22,8 +22,3 @@ Hello! I'm Gagan Naik, a passionate and results-driven Master’s student in Art
 [![](https://visitcount.itsvg.in/api?id=Devgan79&icon=5&color=0)](https://visitcount.itsvg.in)
 
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
-
-###
